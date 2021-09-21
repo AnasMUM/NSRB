@@ -1,2 +1,2 @@
 # NSRB
-Warershed integrety of Northern Saskatchwan RIver Basin 
+Data analysis - Warershed integrety of Northern Saskatchwan RIver Basin 
